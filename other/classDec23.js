@@ -103,25 +103,25 @@ console.log(ratioFunction);
 
 
 // another
-< !DOCTYPE html >
-  <html>
-    <head>
-      <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width">
-          <title>JS Bin</title>
-</head>
-        <body>
-          <button onclick="handleClick(event)">
-            Click to Go
-</button>
+// < !DOCTYPE html >
+//   <html>
+//     <head>
+//       <meta charset="utf-8">
+//         <meta name="viewport" content="width=device-width">
+//           <title>JS Bin</title>
+// </head>
+//         <body>
+//           <button onclick="handleClick(event)">
+//             Click to Go
+// </button>
 
-        </body>
-</html>
+//         </body>
+// </html>
 
 
-var handleClick = function(event) {
-        //console.log(event.type);  // click
-        //console.log(event.currentTarget); // the thing you clicked
-        console.log(event.screenX); // screen X coordinate
-  console.log(event.screenY); // screen Y coordinate
-}
+// var handleClick = function(event) {
+//         //console.log(event.type);  // click
+//         //console.log(event.currentTarget); // the thing you clicked
+//         console.log(event.screenX); // screen X coordinate
+//   console.log(event.screenY); // screen Y coordinate
+// }
